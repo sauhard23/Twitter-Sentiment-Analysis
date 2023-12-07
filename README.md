@@ -1,6 +1,6 @@
-// NLP-SocialMedia
-// README file for FIFA World Cup 2022 Tweets Analysis
-
+ <h1>NLP-SocialMedia
+ README file for FIFA World Cup 2022 Tweets Analysis
+ </h1>
 // Introduction:
 // This project analyzes the sentiments, emotions, keywords, stance, and named entities recognition of FIFA World Cup 2022 tweets using Python and the Natural Language Toolkit (NLTK). The project uses the pandas library to load the tweets from a CSV file, and NLTK libraries for the analysis.
 
